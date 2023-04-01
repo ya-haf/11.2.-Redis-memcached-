@@ -8,3 +8,5 @@
 
 ## Задание 2. Memcached
 Установите и запустите memcached.
+<img src="https://github.com/ya-haf/11.2.-Redis-memcached-/blob/main/img/memcache.png?raw=true">
+
