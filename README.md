@@ -10,3 +10,6 @@
 Установите и запустите memcached.
 <img src="https://github.com/ya-haf/11.2.-Redis-memcached-/blob/main/img/memcache.png?raw=true">
 
+## Задание 3. Удаление по TTL в Memcached
+<img src="https://github.com/ya-haf/11.2.-Redis-memcached-/blob/main/img/memcache1.png?raw=true">
+
