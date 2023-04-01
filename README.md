@@ -13,3 +13,5 @@
 ## Задание 3. Удаление по TTL в Memcached
 <img src="https://github.com/ya-haf/11.2.-Redis-memcached-/blob/main/img/memcache1.png?raw=true">
 
+## Задание 4. Запись данных в Redis
+<img src="https://github.com/ya-haf/11.2.-Redis-memcached-/blob/main/img/redis.png?raw=true">
